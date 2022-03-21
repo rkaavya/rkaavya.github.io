@@ -1,2 +1,5 @@
-## Notes
+{% include navigation.html %}
+
+
+# Notes
 
