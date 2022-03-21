@@ -1,3 +1,5 @@
+{% include navigation.html %}
+
 <html>
   <head><title>Page 1</title></head>
   <body>
