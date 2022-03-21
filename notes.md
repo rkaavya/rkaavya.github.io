@@ -33,4 +33,4 @@
 - COVID data is also crowdsourcing because data analysts share a lot of information are to where cases are high and how many cases are reported in a certain area
 - APIs are a way to obtain data through crowdsourcing
 - Forking a repository on Github is also crowdsourcing
-- 
+
