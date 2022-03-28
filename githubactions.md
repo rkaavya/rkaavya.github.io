@@ -27,11 +27,11 @@ I think that the owner of the computer thought this was intentional becuase ther
 ## Crowdsourcing
 Using slack or discord is a good way to crowdsource between the students in AP CSP because it allows us to communicate and collaborate with each other very efficiently when we are outside of the classroom environment, and it allows us to communicate with students from different class periods who we don't normally see in our classes. Crowdsourcing is used in Del Norte through instagram. ASB gets information around about school evens to students very quickly through instagram, and for those who do not have social media, the announcements that occur everyday are a good use of crowdsourcing. Our final project could be better with crwodsourcing since we would be able to get information out to people who either want to watch lacrosse games or try out for the lacrosse team. 
 
-## 5.5 Actions
+# 5.5 Actions
 1. In relation to the licenses from the lecture, Github offers a Creative Commons license and an MIT license in order for us to share our code with others by legally giving permission. 
 2. For our team project, we created a Creative Commons Zero v1 Universial license because it was free and allowed us to waive the copyright on our code. I created the same license for my personal project for the same reasons. 
 
-## 5.6 Actions
+# 5.6 Actions
 1. I have seen PII through the database that we made last trimester in CompSci principles. We created a database that stored information such as our first and last name, our email, and our login information to our website. 
 2. I feel that I need to have more exposure to PII so that I can understand what kinds of information I should and shouldn't include. I wonder what other ways there are to create a PII. 
 3. A good passowrd is a password that has multiple characters and different kinds of characters such as letters, numbers, capitals, and characters. A bad password has only one type of character used for the whole password. Another step that is used to assist in authenticationn are security phrases, where you set up an answer to a security phrase and then when you login, they ask you the question, and the answer to this question is something that only you would know. 
