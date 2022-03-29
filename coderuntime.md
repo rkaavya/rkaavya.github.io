@@ -2,6 +2,13 @@
 
 # Code and Runtime
 
+
+**_Challenges_**
+
+# Repl.it Embed
+
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@KaavyaRaamkumar/Menu?lite=true#main.py"></iframe>
+ 
 ## Week 0
 
 #### [main.py](https://replit.com/@KaavyaRaamkumar/Menu#main.py)
