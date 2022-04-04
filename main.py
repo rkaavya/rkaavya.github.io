@@ -1,5 +1,6 @@
 # import other
 # from ship import *
+# from processing import *
 from src.week0 import swap
 from src.week0 import ship
 from src.week2 import geometric
@@ -7,6 +8,7 @@ from src.week2 import *
 from src.week1 import infoDB 
 # from factorial import *
 from src.week1 import fibonacci 
+# from src.week2 import bank
 from src.week0 import *
 
 main_menu = [
@@ -20,7 +22,8 @@ main_menu = [
 
 sub_menu = [
     ["Factorial", "src/week2/factorial.py"],
-    # ["GCD", None],
+    ["Bank", "src/week2/bank.py"],
+  # ["GCD", None],
     # ["LCM", "geomet.geometric_sum"],
     # ["Primes", None],
 
@@ -30,6 +33,7 @@ patterns_sub_menu = [
     # ["Patterns", None],
     # ["PreFuncy", None],
     ["Fibonacci", fibonacci.driver],
+    ["Caesar Cipher", "src/week2/caesarcipher.py"]
 ]
 
 
