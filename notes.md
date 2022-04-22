@@ -55,3 +55,32 @@
 - SSL uses both assympetric and symmetric encryption
 - Phishing makes you get a virus on your computer and is a way to get you to input your PII
 
+## DAT-1 University Faculty Lecture
+- If binary # ends in 0, then decimal value must be even
+- 2^# of bits = # of values
+- RGB
+- Additive color model where red, green, and blue light are added together to make colors
+- Basic idea in computers to represent intensity of each color using a #
+- Steganography
+- Practive of concealing a message w/in another message or physical object
+- To hide a message in a digital pic, we need to change some bits in the pic
+- 8 bit RGB image can rep more than 16 mil colors
+- Use LSB of red component of each pixel to store 1 bit of an 8-bit ASCII character
+
+## IOC-1 University Faculty Lecture
+- Computing and CS are changing the world in every country, state, etc.
+- Change is accelerating, computing is faster, cheaper, bigger due to cloud computing than prallel/distributed
+- CS is study of automating algorithmic processes that scale
+- Not limited to programming
+- Not limited to science, tech, eng, math
+- COmputing innovations can have consequences
+- 276 mil smartphone users in US
+- Smartphones are supercomputers and are significantly powerful
+- Poverty is diff by region, race, ethnicity, ect
+- Access to internet is diff in diff areas around the world
+- COVID-19 exposes why access to internet is human right
+- 2016 UN affirmed Internet as important component of human rights
+- Siri/Alexa ar computer programs and are machine learning individ and at scale
+- Machine learning and deep learning drives AI today
+- Training and learning from huge amts of data also drives AI
+
