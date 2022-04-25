@@ -1,11 +1,11 @@
-## PBL Plan ##
+## PBL Plan 
 
 Monday: Create PBL plan and assign issues
 
 Tuesday: Work on signup page in html and focus on design
 
-Wednesday: Work on the calendar page in html
+Wednesday: Watch and take notes on 1st faculty lecture
 
-Thursday: Work on connecting the signup page to the databse and login python code in crud
+Thursday: Watch and take notes on 2nd faculty lecture
 
-Friday: Work on connecting sign up page to databse and adding events in calendar
+Friday: Work on calendar page in html
